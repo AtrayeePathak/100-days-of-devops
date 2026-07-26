@@ -24,6 +24,7 @@ a DevOps/SRE role. No fluff commits — every entry below links to real work.
 | 11 | 2026-07-15 | Azure Resource Manager, templates, and Bicep | [link](./day-11-azure-resource-manager-and-bicep) |
 | 12 | 2026-07-20 | Azure IAM basics and managed identities | [link](./day-12-azure-iam-managed-identities) |
 | 13 | 2026-07-22 | Azure DevOps basics and DevOps workflows | [link](./day-13-azure-devops) |
+| 14 | 2026-07-26 | DevOps project from absolute zero and CI pipelines | [link](./day-14-devops-project-from-zero) |
 
 > Add a new row each day you commit. Keep "Notes" to one line — link out for detail.
 
