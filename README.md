@@ -25,6 +25,8 @@ a DevOps/SRE role. No fluff commits — every entry below links to real work.
 | 12 | 2026-07-20 | Azure IAM basics and managed identities | [link](./day-12-azure-iam-managed-identities) |
 | 13 | 2026-07-22 | Azure DevOps basics and DevOps workflows | [link](./day-13-azure-devops) |
 | 14 | 2026-07-26 | DevOps project from absolute zero and CI pipelines | [link](./day-14-devops-project-from-zero) |
+| 15 | 2026-08-01 | Azure CI/CD pipeline using Azure Pipelines & Argo CD | [link](./day-15-azure-cicd-pipeline) |
+| 16 | 2026-08-03 | Azure Kubernetes Services (AKS Deep Dive) | [link](./day-16-aks-deep-dive) |
 
 > Add a new row each day you commit. Keep "Notes" to one line — link out for detail.
 
