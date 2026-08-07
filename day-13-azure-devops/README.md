@@ -6,7 +6,7 @@
 
 Understand what Azure DevOps is, why DevOps engineers use it, and how it helps teams with planning, collaboration, automation, and delivery.
 
-## What I did
+## What I did -
 
 - Watched a short overview of Azure DevOps and its core purpose in modern software delivery
 - Learned about the main Azure DevOps services: Boards, Repos, Pipelines, Test Plans, and Artifacts
