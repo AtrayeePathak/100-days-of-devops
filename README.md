@@ -27,6 +27,7 @@ a DevOps/SRE role. No fluff commits — every entry below links to real work.
 | 14 | 2026-07-26 | DevOps project from absolute zero and CI pipelines | [link](./day-14-devops-project-from-zero) |
 | 15 | 2026-08-01 | Azure CI/CD pipeline using Azure Pipelines & Argo CD | [link](./day-15-azure-cicd-pipeline) |
 | 16 | 2026-08-03 | Azure Kubernetes Services (AKS Deep Dive) | [link](./day-16-aks-deep-dive) |
+| 18 | 2026-08-12 | Azure DevOps scenario-based interview questions | [link](./day-18-azure-devops-scenario-based-interview-questions) |
 
 > Add a new row each day you commit. Keep "Notes" to one line — link out for detail.
 
